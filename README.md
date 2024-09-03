@@ -12,7 +12,7 @@ A simple text editor written in C, designed for basic text file creation, editin
 
 ## Installation
 
-To compile and run this text editor, you need to have a C compiler installed (e.g., gcc). Follow these steps:
+To compile and run this text editor, you need to have a C compiler installed (e.g., gcc). 
 
 1. *Clone the repository:*
 
