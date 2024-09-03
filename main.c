@@ -20,7 +20,14 @@ int main()
     printf("( T | E | X | T ) ( E | D | I | T | O | R )\n");
 
     while (1) {
-        printf("\nEnter command:\n1. insert\n2. delete\n3. save\n4. load\n5. display\n6. exit\n");
+        printf("\nEnter command:\n");
+        printf("1. insert\n");
+        printf("2. delete\n");
+        printf("3. save\n");
+        printf("4. load\n");
+        printf("5. display\n");
+        printf("6. exit\n");
+
         fgets(command, sizeof(command), stdin);
 
         if (strncmp(command, "insert", 6) == 0) {
