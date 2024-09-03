@@ -16,7 +16,7 @@ To compile and run this text editor, you need to have a C compiler installed (e.
 
 1. *Clone the repository:*
 
-    git clone https://github.com/yourusername/simple-text-editor.git
+    https://github.com/Rewandabies/TextEditor.git
     
 
 ## Usage
